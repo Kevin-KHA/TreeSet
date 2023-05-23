@@ -72,7 +72,7 @@ public class Principal
                 nombreNuevo = leer.next();
                 //aqui se hace el reemplazo del dato que corresponde a la matricula ingresada
                 alumno.setName(nombreNuevo);
-                System.out.print("Datos actualizados correctamente");
+                System.out.print("Datos actualizados correctamente\n");
             }   
         }
     }
